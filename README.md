@@ -1,4 +1,5 @@
 # Logger .
+<<<<<<< HEAD
 
 Develop
 
@@ -10,3 +11,6 @@ JUnit
 
 then
 
+=======
+JUint
+>>>>>>> 6312a22... TMX-XXXX message and detail
